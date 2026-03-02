@@ -1,0 +1,46 @@
+# Reference material and temporary extraction output
+Materijal sa vezbi/
+Blanketi/
+OpenGL funkcije.pdf
+OpenGL Projekat Template.pdf
+_pdf_text/
+_pdf_renders/
+LAB5/
+prompt_za_ispit_opengl.txt
+
+# Visual Studio state
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# Build output
+**/[Dd]ebug/
+**/[Rr]elease/
+**/x64/
+**/ipch/
+**/*.aps
+**/*.idb
+**/*.ilk
+**/*.lastbuildstate
+**/*.log
+**/*.obj
+**/*.pch
+**/*.pdb
+**/*.recipe
+**/*.res
+**/*.tlog
+
+# Built binaries
+**/*.dll
+**/*.exe
+**/*.exp
+**/*.lib
+
+# Template-bundled OpenGL dependencies
+Vezbanje*/GLK/GL/
+Vezbanje*/GLK/glut32.dll
+Vezbanje*/GLK/glut32.lib
