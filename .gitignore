@@ -8,6 +8,9 @@ _pdf_renders/
 LAB5/
 prompt_za_ispit_opengl.txt
 
+*.jpg
+
+
 # Visual Studio state
 .vs/
 *.user
